@@ -14,7 +14,7 @@ Olá pessoal, Eder William aqui! Inspirado na hype _"Natty or Not"_ do fisicultu
 - [E-Book](https://github.com/ewd02s/desafio-de-projeto-ebook)
 - [Artigo](https://github.com/ewd02s/prompts-para-artigo-gerado-por-ia)
 - [Podcast](https://github.com/ewd02s/prompts-para-podcast-gerados-por-ia)
-- [Vídeo (Avatar Virtual)](/media/video.mp4)
+- [Vídeo (Avatar Virtual](https://studio.d-id.com/share?id=c8868cf791b534ee1a125b940e4508e1&utm_source=copy)
 
 ### Template
 
@@ -32,7 +32,7 @@ D-ID - AI video platform | The #1 Choice for AI Generated Video Creation Platfor
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-- [Vídeo (Avatar Virtual)](https://studio.d-id.com/share?id=c8868cf791b534ee1a125b940e4508e1&utm_source=copy)
+Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.

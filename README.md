@@ -32,7 +32,7 @@ D-ID - AI video platform | The #1 Choice for AI Generated Video Creation Platfor
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-- [Vídeo (Avatar Virtual)](/media/video.mp4)
+- [Vídeo (Avatar Virtual)](https://studio.d-id.com/share?id=c8868cf791b534ee1a125b940e4508e1&utm_source=copy)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
